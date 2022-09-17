@@ -90,7 +90,26 @@ Answer: here we are not allowed to use single apostropii in a string .And also i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br/>
 Answer: here goes the answer code....   
+#include<stdio.h>
 
+int main()
+{
+    int n,m=1;
+    printf("Here we are going to form a inverted number pattern...\n");
+    printf("input for inverted number pattern:");
+    scanf("%d",&n);
+    for(int i=0;i<n;i++)
+    {
+        int count=1;
+        for(int j=0;j<(n-i);j++)
+        {
+            printf("%d",count);
+            count++;
+        }
+        printf("\n");
+    }
+    return 0;
+}
 
 (b)        
 (c)        
