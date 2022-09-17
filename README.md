@@ -83,7 +83,15 @@ Answer: here we are not allowed to use single apostropii in a string .And also i
 
 <div align="left">2. Answer the following Questions. (Any <b>Four</b>). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 &times; 5 = 20 </div>
 
-(a)          
+(a) Write program to form this pattern for n = 5.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12345<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1234<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;123<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br/>
+Answer: here goes the answer code....   
+
+
 (b)        
 (c)        
 (d)           
