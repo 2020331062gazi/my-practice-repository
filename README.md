@@ -90,26 +90,26 @@ Answer: here we are not allowed to use single apostropii in a string .And also i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br/>
 Answer: here goes the answer code....   
-#include<stdio.h>
+#include<stdio.h>  <br/>
 
-int main()
-{
-    int n,m=1;
-    printf("Here we are going to form a inverted number pattern...\n");
-    printf("input for inverted number pattern:");
-    scanf("%d",&n);
-    for(int i=0;i<n;i++)
-    {
-        int count=1;
-        for(int j=0;j<(n-i);j++)
-        {
-            printf("%d",count);
-            count++;
-        }
-        printf("\n");
-    }
-    return 0;
-}
+int main()<br/>
+{<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   int n,m=1;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   printf("Here we are going to form a inverted number pattern...\n");<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   printf("input for inverted number pattern:");<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   scanf("%d",&n);<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   for(int i=0;i<n;i++)<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   {<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    int count=1;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       for(int j=0;j<(n-i);j++)<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       {<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         printf("%d",count);<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        count++;<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     }<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       printf("\n");<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  }<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  return 0;<br/>
+}<br/>
 
 (b)        
 (c)        
